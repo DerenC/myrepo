@@ -170,5 +170,4 @@ cython_debug/
 .pypirc
 
 search-ui/node_modules/
-elastic-backend/node-1/modules
 elastic-backend/node-2/modules
