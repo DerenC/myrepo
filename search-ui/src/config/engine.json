@@ -1,0 +1,13 @@
+{
+  "endpointBase": "https://search-ui-sandbox.ent.us-central1.gcp.cloud.es.io",
+  "engineName": "national-parks",
+  "searchKey": "search-nyxkw1fuqex9qjhfvatbqfmw",
+  "searchFields": ["generated_text", "durations", "age", "gender", "accent"],
+  "resultFields": ["generated_text", "durations", "age", "gender", "accent"],
+  "querySuggestFields": ["generated_text"],
+  "titleField": "generated_text",
+  "urlField": "nps_link",
+  "thumbnailField": "image_url",
+  "sortFields": ["generated_text", "durations", "age", "gender", "accent"],
+  "facets": ["age", "gender", "accent"]
+}
